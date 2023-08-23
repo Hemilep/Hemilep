@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00CED1a4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFFa4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Hemile+Paixão)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFFa4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Hemile+Paixão!)](https://git.io/typing-svg)
 
 Sou formada em Engenharia Sanitária e Ambiental pela Universidade Federal da Bahia, onde tive meu primeiro contato com programação. Desde então, tenho sentido uma crescente paixão pela área tecnológica. No decorrer de 2023, tomei a decisão de mudar minha carreira nessa direção.
 
