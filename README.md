@@ -11,10 +11,9 @@ Meu objetivo profissional imediato é adentrar o campo tecnológico como desenvo
 #
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hemilep&show_icons=true&count_private=true&hide_border=true&title_color=00FFFFa4&icon_color=00FFFFa4&text_color=c9d1d9&bg_color=0d1117" alt="Hemile Paixão github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemilep&layout=compact&hide_border=true&title_color=00FFFFa4&text_color=00FFFFa4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hemilep&show_icons=true&count_private=true&hide_border=true&title_color=00FFFFa4&icon_color=00ffffa4&text_color=c9d1d9&bg_color=0d1117" alt="Hemile Paixão github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemilep&layout=compact&hide_border=true&title_color=00ffffa4&text_color=00ffffa4&bg_color=0d1117" />
 </div>
-
 
  #
  ### Ferramentas e Tecnologias
